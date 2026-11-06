@@ -1,6 +1,9 @@
-STOCK PORTFOLIO TRACKER
-================================
+# CodeAlpha Stock Portfolio Tracker
 
+## Output
+```text
+STOCK PORTFOLIO TRACKER
+========================
 Enter Stock Name (or done): AAPL
 Enter Quantity: 5
 Stock Added Successfully!
@@ -17,14 +20,13 @@ Stock: AAPL
 Quantity: 5
 Price: 180
 Investment: 900
-----------------------------
+
 Stock: TSLA
 Quantity: 2
 Price: 250
 Investment: 500
-----------------------------
 
 Total Investment: 1400
 
-Portfolio saved successfully!
-Thank you!
+Portfolio saved successfully! Thank you!
+```
